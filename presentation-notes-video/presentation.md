@@ -7,14 +7,14 @@
 - Gitlab:
 - Bitbucket:
 
-- Meeting 2
+**- Meeting 2**
 
-- Meeting 3
+**- Meeting 3**
 
-- Meeting 4
+**- Meeting 4**
 
-- Meeting 5
+**- Meeting 5**
 
-- Meeting 6
+**- Meeting 6**
 
-- Meeting 7
+**- Meeting 7**

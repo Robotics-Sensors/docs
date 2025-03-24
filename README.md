@@ -40,5 +40,4 @@ docs/
     │   └── images.png
     └── diagrams/
         └── architecture.svg
-
 ```
