@@ -1,6 +1,7 @@
 # Documentation of Bellande Robotics Sensors Research Innovation Center
 ### Overview and navigation guide
 
+```
 docs/
 ├── README.md                  # Overview and navigation guide
 ├── getting-started/           # Onboarding documentation
@@ -39,3 +40,5 @@ docs/
     │   └── images.png
     └── diagrams/
         └── architecture.svg
+
+```
