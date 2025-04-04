@@ -12,7 +12,7 @@ docs/
 │   ├── presentation.md
 │   ├── notes.md
 │   └── video.md
-├── user-guides/               # Task-oriented guides
+├── robotics-architectures        # Robotics Related Repositories
 │   ├── feature-a.md
 │   ├── feature-b.md
 │   └── workflows/
