@@ -4,10 +4,6 @@
 ```
 docs/
 ├── README.md                  # Overview and navigation guide
-├── getting-started/           # Onboarding documentation
-│   ├── installation.md
-│   ├── quick-start.md
-│   └── configuration.md
 ├── presentation-notes-video/   # Organization Presentation
 │   ├── presentation.md
 │   ├── notes.md
